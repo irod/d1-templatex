@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-templatex",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "30dcc9cb-7662-46c4-ae91-d55cad407728",
+      "database_name": "d1-templatex-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
